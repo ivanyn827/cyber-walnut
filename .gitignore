@@ -1,0 +1,8 @@
+.venv/
+build/
+__pycache__/
+.DS_Store
+tools/arduino-cli
+tools/bin/
+*.log
+quota-binding.json

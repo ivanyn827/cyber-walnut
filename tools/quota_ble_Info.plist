@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleIdentifier</key><string>local.deskmate.quota-ble</string>
+<key>CFBundleName</key><string>DeskMate Quota</string>
+<key>NSBluetoothAlwaysUsageDescription</key><string>通过蓝牙向已绑定的桌面小精灵同步 Codex 剩余额度。</string>
+</dict></plist>
